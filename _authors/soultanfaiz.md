@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/paiz.png
 name: soultanfaiz
 display_name: Soultan Faiz
 position: Programmer

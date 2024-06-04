@@ -16,7 +16,9 @@
   }
 
   .carousel-item {
-    width: 100%; /* Ensure each item takes up the full width */
+    width: 100%; /* Ensures item takes up full width */
     flex: 0 0 auto; /* Disable flex-grow and flex-shrink */
     scroll-snap-align: start; /* Ensure items snap to start */
+    position: relative; /* Needed for background-size */
   }
+
