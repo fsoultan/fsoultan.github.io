@@ -1,9 +1,9 @@
 # Site Settings
-name: Jekflix
+name: Portofolio
 livereload: true
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+# title: Jekflix | A blog theme for Jekyll
+# description: Jekflix is a template for Jekyll inspired by Netflix and made by
+#   Thiago Rossener.
 tags:
   - blog
   - template
@@ -15,11 +15,11 @@ menu:
   - title: Home
     url: /
   - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+    url: /soultan-faiz
+  # - title: Contact
+  #   url: /contact
+  # - title: Feed
+  #   url: /feed.xml
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username

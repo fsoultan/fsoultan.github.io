@@ -4,7 +4,7 @@ layout: post
 title: "Soultan Faiz"
 subtitle:
 description:
-image:
+image: /assets/img/paiz.png
 optimized_image:
 category:
 tags:

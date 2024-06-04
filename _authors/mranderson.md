@@ -1,10 +1,10 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
+name: soultanfaiz
+display_name: Soultan Faiz
+position: Programmer
+bio: Passionate Game Developer.
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
