@@ -1,3 +1,22 @@
 ---
 ---
 @import "jekflix";
+
+.custom-container {
+    max-width: 800px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 0 15px; /* Add padding if necessary */
+  }
+
+  .carousel-inner {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; /* Enable smooth scrolling on iOS */
+  }
+
+  .carousel-item {
+    width: 100%; /* Ensure each item takes up the full width */
+    flex: 0 0 auto; /* Disable flex-grow and flex-shrink */
+    scroll-snap-align: start; /* Ensure items snap to start */
+  }
