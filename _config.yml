@@ -20,7 +20,7 @@ menu:
   #   url: /contact
   # - title: Feed
   #   url: /feed.xml
-email: youremail@test.com
+email: sfaiz@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -30,11 +30,11 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
+github_username: fsoultan
+facebook_username: soultanf1
 twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
+instagram_username: soulta123n
+linkedin_username: soultanfaiz
 medium_username: medium_username
 
 
