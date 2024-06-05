@@ -3,7 +3,7 @@ date: 2024-06-03 08:01:45
 layout: post
 title: "Soultan Faiz"
 subtitle: "Programmer, East Kalimantan, Indonesia"
-description: "Born 21 July 2000"
+description: "Born July 21st, 2000"
 image: /assets/img/paiz.png
 optimized_image:
 category:
