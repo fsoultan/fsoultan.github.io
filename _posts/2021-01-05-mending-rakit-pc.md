@@ -1,27 +1,26 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2021-01-05 12:26:40
 layout: post
-title: PERLUNIH
-subtitle: Mobile Application
-description: "'PERLUNIH' is an Android-based application that allows users to apply for jobs in specific locations (This project is still under development)."
+title: Mending Rakit PC
+subtitle: 2D Games, PC
+description: "'Mending Rakit PC' is a 2D game created using Unity and playable on PC. In this game, players embark on a mission to purchase PC components and assemble them according to a specified budget and specifications to complete levels."
 ## image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-image: /assets/img/PERLUNIH/4.png
-optimized_image: /assets/img/PERLUNIH/Main.png
+image: /assets/img/MendingRakitPC/1.png
+optimized_image: /assets/img/MendingRakitPC/1.png
 ## optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: Mobile Application
+category: 2D Unity Game
 tags:
-  - Android Studio
-  - Mobile Application
+  - 2D Games
+  - PC
 author: soultanfaiz
 paginate: true
 ---
 
 {{page.description}}
 
+### Gameplay Footage
 
-### Application Footage
-
-> Tap the left or right side of the photo below to view the application screenshots.
+> Tap the left or right side of the photo below to view game screenshots.
 
 <!-- HTML Structure -->
 <div class="custom-container">
@@ -29,9 +28,9 @@ paginate: true
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
       {% assign active = true %}
-      {% for i in (1..9) %}
+      {% for i in (1..8) %}
       <div class="carousel-item {% if active %}active{% endif %}">
-        <img src="{{ site.baseurl }}/assets/img/PERLUNIH/{{ i }}.png" class="carousel-image" alt="Image {{ i }}">
+        <img src="{{ site.baseurl }}/assets/img/MendingRakitPC/{{ i }}.png" class="d-block img-fluid" alt="Image {{ i }}">
       </div>
       {% assign active = false %}
       {% endfor %}

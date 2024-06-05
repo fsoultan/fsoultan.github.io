@@ -1,22 +1,23 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2024-05-31 12:26:40
 layout: post
-title: Mending Rakit PC
-subtitle: 2D Games, PC
-description: "'Mending Rakit PC' is a 2D game created using Unity and playable on PC. In this game, players embark on a mission to purchase PC components and assemble them according to a specified budget and specifications to complete levels."
+title: War Champion
+subtitle: 2D Games, Android
+description: "World Invasion is a 2D skill-based game for Android. The goal of this game is to overcome various obstacles at each increasingly difficult level."
 ## image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-image: /assets/img/MendingRakitPC/1.png
-optimized_image: /assets/img/MendingRakitPC/1.png
+image: /assets/img/WarChampion/1.png
+optimized_image: /assets/img/WarChampion/Main.png
 ## optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 category: 2D Unity Game
 tags:
   - 2D Games
-  - PC
+  - Android
 author: soultanfaiz
 paginate: true
 ---
 
 {{page.description}}
+
 
 ### Gameplay Footage
 
@@ -28,9 +29,9 @@ paginate: true
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
       {% assign active = true %}
-      {% for i in (1..8) %}
+      {% for i in (1..14) %}
       <div class="carousel-item {% if active %}active{% endif %}">
-        <img src="{{ site.baseurl }}/assets/img/MendingRakitPC/{{ i }}.png" class="d-block img-fluid" alt="Image {{ i }}">
+        <img src="{{ site.baseurl }}/assets/img/WarChampion/{{ i }}.png" class="carousel-image" alt="Image {{ i }}">
       </div>
       {% assign active = false %}
       {% endfor %}
