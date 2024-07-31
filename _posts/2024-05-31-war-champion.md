@@ -3,7 +3,7 @@ date: 2024-05-31 12:26:40
 layout: post
 title: War Champion
 subtitle: 2D Games, Android
-description: "World Invasion is a 2D skill-based game for Android. The goal of this game is to overcome various obstacles at each increasingly difficult level."
+description: "War Champion is a 2D strategy game based on Android. The goal of the game is to become the best strategist in conducting warfare among players."
 ## image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 image: /assets/img/WarChampion/1.png
 optimized_image: /assets/img/WarChampion/Main.png
